@@ -1,0 +1,53 @@
+.wrap h2 {
+	background: transparent url(../images/icon_large.png) 0 8px no-repeat;
+	text-indent: 38px;
+ }
+ .wrap label{
+ 	padding:  0 4px 0 4px;
+ }
+ #tlkadd{
+ 	margin: 20px 0 20px 0;
+ 	-webkit-border-radius: 4px;
+			-webkit-border-bottom-left-radius: 4px;
+			-moz-border-radius: 4px;
+			-moz-border-radius-bottomleft: 4px;
+	border-radius: 4px;
+	background-color: #eeeeee;
+	padding: 5px;
+	overflow: hidden;
+	float: left;
+ }
+#tlkadd select{
+	color: #c4c4c4!important;
+}
+#tlkadd option[selected="selected"]{
+	color: #585858;
+}
+
+ #tlkadd input,  #tlkadd .default{
+ 	color: #c4c4c4;
+ }
+ #tlkadd .button-primary{
+ 	color: #fff;
+ }
+ #tlkadd .write{
+ 	color: #21759B;;
+ }
+ #tlkadd .nowrite{
+ 	color: #585858;
+ }
+.widefat td.key{
+ 	color: #21759B;
+ 	font-weight: bold;
+ }
+ 
+.widefat #tlkadd{
+  margin: 0;
+  }
+#editk{
+ 	background-color: #EFEFEF;
+ }
+ .widefat .expired{
+ 	color: red;
+ 	font-weight: bold;
+ }
